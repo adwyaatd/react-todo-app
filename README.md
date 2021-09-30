@@ -1,2 +1,2 @@
-# udemy-react-todo-app
+# udemy-react-lesson
 Created with CodeSandbox
